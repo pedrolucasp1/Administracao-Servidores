@@ -1,4 +1,3 @@
-#!/bin/bash
 # -*- coding: utf-8 -*-
 
 #O Script será automaticamente finalizado se encontrar erros
