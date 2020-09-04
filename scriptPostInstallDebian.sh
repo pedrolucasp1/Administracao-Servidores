@@ -26,8 +26,6 @@ BlackFlash='\033[05;30m'    # BlackFlash   /     # Preto piscando
 White='\033[01;37m'         # White        /     # Branco
 WhiteFlash='\033[05;37m'    # WhiteFlash   /     # Branco piscando
 
-${APACHE_LOG_DIR} = '${APACHE_LOG_DIR}'
-
 #Veriicar a conexão com a internet
 clear
 echo -e "$Blue #################################################################################### $Color_Off"
